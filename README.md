@@ -1,5 +1,8 @@
- <h1 align="center">Hey, I'm Deyvison Costa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+ <h2 align="center">Hey, I'm Deyvison Costa 👋</h2>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=DeyvisonCost" alt="DeyvisonCosta" /> </p>
+ 
+ [![Linkedin Badge](https://img.shields.io/badge/-Deyvison%20Costa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deyvisonccosta/)](https://www.linkedin.com/in/deyvisonccosta/)
+
 
 <!--
 **DeyvisonCost/DeyvisonCost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
