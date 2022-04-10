@@ -1,5 +1,4 @@
  <h2 align="center">Hey, I'm Deyvison Costa 👋</h2>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=DeyvisonCost" alt="DeyvisonCosta" /> </p>
  
 - 🌱 I’m currently learning everything 😁
 - ⚡ Fun fact: I love playing soccer and music !
