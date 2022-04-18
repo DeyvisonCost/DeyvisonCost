@@ -1,8 +1,5 @@
- <h2 align="center">Hey, I'm Deyvison Costa 👋</h2>
+ <h2 align="center">Hi there !</h2>
  
-- 🌱 I’m currently learning everything 😁
-- ⚡ Fun fact: I love playing soccer and music !
-  
   ##
   
   <div>
