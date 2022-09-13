@@ -24,8 +24,10 @@
   <img align="center" alt="Deyvison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Deyvison-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Deyvison-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Deyvison-MongoDB" height="30" width="40" src=https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg>
   <img align="center" alt="Deyvison-MongoDB" height="30" width="40" src=https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg>
   <img align="center" alt="Deyvison-MongoDB" height="30" width="40" src=https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg>
+  <img align="center" alt="Deyvison-MongoDB" height="30" width="40" src=https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg>
   <img align="center" alt="Deyvison-Next" height="30" width="40" src=https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png>
   
 </div>
