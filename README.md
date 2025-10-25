@@ -21,8 +21,7 @@
  <div align="center"  style="display: inline_block"><br>
   
   
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ 
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Next" height="35" width="36" src=https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png>
   <img align="center" alt="NodeJS" height="30" width="40" src=https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg>
